@@ -36,3 +36,5 @@ python nii.py -i
 等待安装完成即可。
 
 测试test
+
+新功能
