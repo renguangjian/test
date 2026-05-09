@@ -35,4 +35,4 @@ python nii.py -i
 
 等待安装完成即可。
 
-测试
+测试test
